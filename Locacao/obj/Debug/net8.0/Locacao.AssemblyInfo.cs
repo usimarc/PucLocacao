@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Locacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf4cfd0e1e4f1c5fe9e00fd087b01860cb6c2ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+413e32ab38e82e54a55e5ce1f874323cf57d5e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Locacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Locacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

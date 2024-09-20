@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\Veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\Locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locacao\\Model\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Veiculo.cs",
+              "RelativeToolTip": "Locacao\\Model\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:54:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locacao.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Locacao.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\Locacao.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Locacao.cs",
+              "RelativeToolTip": "Locacao\\Model\\Locacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:54:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Funcionario.cs",
+              "RelativeToolTip": "Locacao\\Model\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:54:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Empresa.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Empresa.cs",
+              "RelativeToolTip": "Locacao\\Model\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:53:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\Cliente.cs",
+              "RelativeToolTip": "Locacao\\Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:53:16.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Locacao\\Model\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Alpha\\Documents\\PUC\\TecnologiaAnalise\\PucLocacao\\Locacao\\Model\\ApplicationContext.cs",
+              "RelativeToolTip": "Locacao\\Model\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:52:22.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
